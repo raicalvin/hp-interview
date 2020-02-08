@@ -1,0 +1,377 @@
+{
+    "characters": {
+        "success": true,
+        "data": [
+            {
+                "id": 1,
+                "name": "Harry Potter",
+                "house": "Gryffindor",
+                "wand": {
+                    "wood": "holly",
+                    "core": "phoenix feather",
+                    "length": 11
+                },
+                "patronus": "Stag",
+                "image_url": "http://hp-api.herokuapp.com/images/harry.jpg",
+                "student": true
+            },
+            {
+                "id": 2,
+                "name": "Hermoine Granger",
+                "house": "Gryffindor",
+                "wand": {
+                    "wood": "vine",
+                    "core": "dragon heartstring",
+                    "length": null
+                },
+                "patronus": "Otter",
+                "image_url": "http://hp-api.herokuapp.com/images/hermione.jpeg",
+                "student": true
+            },
+            {
+                "id": 3,
+                "name": "Ron Weasley",
+                "house": "Gryffindor",
+                "wand": {
+                    "wood": "willow",
+                    "core": "unicorn tail-har",
+                    "length": 14
+                },
+                "patronus": "Jack Russell Terrier",
+                "image_url": "http://hp-api.herokuapp.com/images/ron.jpg",
+                "student": true
+            },
+            {
+                "id": 4,
+                "name": "Draco Malfoy",
+                "house": "Slytherin",
+                "wand": {
+                    "wood": "hawthorn",
+                    "core": "unicorn tail-hair",
+                    "length": 10
+                },
+                "patronus": null,
+                "image_url": "http://hp-api.herokuapp.com/images/draco.jpg",
+                "student": true
+            },
+            {
+                "id": 5,
+                "name": "Minerva McGonagall",
+                "house": "Gryffindor",
+                "wand": {
+                    "wood": null,
+                    "core": null,
+                    "length": null
+                },
+                "patronus": "Tabby Cat",
+                "image_url": "http://hp-api.herokuapp.com/images/mcgonagall.jpg",
+                "student": false
+            },
+            {
+                "id": 6,
+                "name": "Cedric Diggory",
+                "house": "Hufflepuff",
+                "wand": {
+                    "wood": "ash",
+                    "core": "unicorn hair",
+                    "length": 12.25
+                },
+                "patronus": null,
+                "image_url": "http://hp-api.herokuapp.com/images/cedric.png",
+                "student": true
+            },
+            {
+                "id": 7,
+                "name": "Cho Chang",
+                "house": "Ravenclaw",
+                "wand": {
+                    "wood": null,
+                    "core": null,
+                    "length": null
+                },
+                "patronus": "Swan",
+                "image_url": "http://hp-api.herokuapp.com/images/cho.png",
+                "student": true
+            },
+            {
+                "id": 8,
+                "name": "Severus Snape",
+                "house": "Slytherin",
+                "wand": {
+                    "wood": null,
+                    "core": null,
+                    "length": null
+                },
+                "patronus": "Doe",
+                "image_url": "http://hp-api.herokuapp.com/images/snape.png",
+                "student": false
+            },
+            {
+                "id": 9,
+                "name": "Rubeus Hagrid",
+                "house": "Gryffindor",
+                "wand": {
+                    "wood": "oak",
+                    "core": null,
+                    "length": 16
+                },
+                "patronus": null,
+                "image_url": "http://hp-api.herokuapp.com/images/hagrid.png",
+                "student": false
+            },
+            {
+                "id": 10,
+                "name": "Neville Longbottom",
+                "house": "Gryffindor",
+                "wand": {
+                    "wood": "cherry",
+                    "core": "unicorn tail-hair",
+                    "length": 13
+                },
+                "patronus": null,
+                "image_url": "http://hp-api.herokuapp.com/images/neville.png",
+                "student": true
+            },
+            {
+                "id": 11,
+                "name": "Luna Lovegood",
+                "house": "Ravenclaw",
+                "wand": {
+                    "wood": null,
+                    "core": null,
+                    "length": null
+                },
+                "patronus": "Hare",
+                "image_url": "http://hp-api.herokuapp.com/images/luna.png",
+                "student": true
+            },
+            {
+                "id": 12,
+                "name": "Ginny Weasley",
+                "house": "Gryffindor",
+                "wand": {
+                    "wood": "yew",
+                    "core": null,
+                    "length": null
+                },
+                "patronus": "Stallion",
+                "image_url": "http://hp-api.herokuapp.com/images/ginny.png",
+                "student": true
+            },
+            {
+                "id": 13,
+                "name": "Sirius Black",
+                "house": "Gryffindor",
+                "wand": {
+                    "wood": null,
+                    "core": null,
+                    "length": null
+                },
+                "patronus": "Grim",
+                "image_url": "http://hp-api.herokuapp.com/images/sirius.png",
+                "student": false
+            },
+            {
+                "id": 14,
+                "name": "Remus Lupin",
+                "house": "Gryffindor",
+                "wand": {
+                    "wood": "cypress",
+                    "core": "unicorn tail-hair",
+                    "length": 10.25
+                },
+                "patronus": "Wolf",
+                "image_url": "http://hp-api.herokuapp.com/images/lupin.png",
+                "student": false
+            },
+            {
+                "id": 14,
+                "name": "Arthur Weasley",
+                "house": "Gryffindor",
+                "wand": {
+                    "wood": null,
+                    "core": null,
+                    "length": null
+                },
+                "patronus": "Weasel",
+                "image_url": "http://hp-api.herokuapp.com/images/arthur.png",
+                "student": false
+            },
+            {
+                "id": 15,
+                "name": "Bellatrix Lestrange",
+                "house": "Slytherin",
+                "wand": {
+                    "wood": "walnut",
+                    "core": "dragon heartstring",
+                    "length": 12.75
+                },
+                "patronus": null,
+                "image_url": "http://hp-api.herokuapp.com/images/bellatrix.jpg",
+                "student": false
+            },
+            {
+                "id": 16,
+                "name": "Lord Voldemort",
+                "house": "Slytherin",
+                "wand": {
+                    "wood": "yew",
+                    "core": "phoenix feather",
+                    "length": 13.5
+                },
+                "patronus": null,
+                "image_url": "http://hp-api.herokuapp.com/images/voldemort.jpg",
+                "student": false
+            },
+            {
+                "id": 17,
+                "name": "Horace Slughorn",
+                "house": "Slytherin",
+                "wand": {
+                    "wood": "cedar",
+                    "core": "dragon heartstring",
+                    "length": 10.25
+                },
+                "patronus": null,
+                "image_url": "http://hp-api.herokuapp.com/images/slughorn.jpg",
+                "student": false
+            },
+            {
+                "id": 18,
+                "name": "Kingsley Shacklebolt",
+                "house": "Hufflepuff",
+                "wand": {
+                    "wood": null,
+                    "core": null,
+                    "length": null
+                },
+                "patronus": "Lynx",
+                "image_url": "http://hp-api.herokuapp.com/images/kingsley.jpg",
+                "student": false
+            },
+            {
+                "id": 19,
+                "name": "Dolores Umbridge",
+                "house": "Slytherin",
+                "wand": {
+                    "wood": "birch",
+                    "core": "dragon heartstring",
+                    "length": 8
+                },
+                "patronus": "Persian Cat",
+                "image_url": "http://hp-api.herokuapp.com/images/umbridge.jpg",
+                "student": false
+            },
+            {
+                "id": 20,
+                "name": "Lucius Malfoy",
+                "house": "Slytherin",
+                "wand": {
+                    "wood": "elm",
+                    "core": "dragon heartstring",
+                    "length": 18
+                },
+                "patronus": null,
+                "image_url": "http://hp-api.herokuapp.com/images/lucius.jpg",
+                "student": false
+            },
+            {
+                "id": 21,
+                "name": "Vincent Crabbe",
+                "house": "Slytherin",
+                "wand": {
+                    "wood": null,
+                    "core": null,
+                    "length": null
+                },
+                "patronus": null,
+                "image_url": "http://hp-api.herokuapp.com/images/crabbe.jpg",
+                "student": true
+            },
+            {
+                "id": 22,
+                "name": "Gregory Goyle",
+                "house": "Slytherin",
+                "wand": {
+                    "wood": null,
+                    "core": null,
+                    "length": null
+                },
+                "patronus": null,
+                "image_url": "http://hp-api.herokuapp.com/images/goyle.jpg",
+                "student": true
+            },
+            {
+                "id": 23,
+                "name": "Mrs. Norris",
+                "house": "Slytherin",
+                "wand": {
+                    "wood": null,
+                    "core": null,
+                    "length": null
+                },
+                "patronus": "Mountain Lion",
+                "image_url": "http://hp-api.herokuapp.com/images/norris.jpg",
+                "student": false
+            },
+            {
+                "id": 24,
+                "name": "Argus Filch",
+                "house": "Slytherin",
+                "wand": {
+                    "wood": null,
+                    "core": null,
+                    "length": null
+                },
+                "patronus": "Mountain Lion",
+                "image_url": "http://hp-api.herokuapp.com/images/norris.jpg",
+                "student": false
+            },
+            {
+                "id": 25,
+                "name": "Albus Dumbledore",
+                "house": "Gryffindor",
+                "wand": {
+                    "wood": "elder wood",
+                    "core": "thestrial tail-hair",
+                    "length": 15
+                },
+                "patronus": "Phoenix",
+                "image_url": "",
+                "student": false
+            }
+        ],
+        "message": "Characters fetched!"
+    },
+    "houses": {
+        "success": true,
+        "data": [
+            {
+                "house": "Gryffindor",
+                "mascot": "Lion",
+                "color_primary": "#7f0909",
+                "color_secondary": "#ffc500"
+
+            },
+            {
+                "house": "Slytherin",
+                "mascot": "Snake",
+                "color_primary": "#0d6217",
+                "color_secondary": "#aaaaaa"
+            },
+            {
+                "house": "Hufflepuff",
+                "mascot": "Badger",
+                "color_primary": "#eee117",
+                "color_secondary": "#000000"
+            },
+            {
+                "house": "Ravenclaw",
+                "mascot": "Raven",
+                "color_primary": "#000a90",
+                "color_secondary": "#eeba30"
+            }
+        ],
+        "message": "Houses fetched!"
+    }
+}
