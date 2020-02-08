@@ -292,6 +292,8 @@
         "message": "Characters fetched!"
     },
     "isWizard": {
-        "value": true
+        "success": true,
+        "data": "You're a wizard!",
+        "message": "Response was successful!"
     }
 }
