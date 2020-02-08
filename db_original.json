@@ -276,7 +276,59 @@
                 "student": false
             },
             {
+                "id": 21,
+                "name": "Vincent Crabbe",
+                "house": "Slytherin",
+                "wand": {
+                    "wood": null,
+                    "core": null,
+                    "length": null
+                },
+                "patronus": null,
+                "image_url": "http://hp-api.herokuapp.com/images/crabbe.jpg",
+                "student": true
+            },
+            {
+                "id": 22,
+                "name": "Gregory Goyle",
+                "house": "Slytherin",
+                "wand": {
+                    "wood": null,
+                    "core": null,
+                    "length": null
+                },
+                "patronus": null,
+                "image_url": "http://hp-api.herokuapp.com/images/goyle.jpg",
+                "student": true
+            },
+            {
                 "id": 23,
+                "name": "Mrs. Norris",
+                "house": "Slytherin",
+                "wand": {
+                    "wood": null,
+                    "core": null,
+                    "length": null
+                },
+                "patronus": "Mountain Lion",
+                "image_url": "http://hp-api.herokuapp.com/images/norris.jpg",
+                "student": false
+            },
+            {
+                "id": 24,
+                "name": "Argus Filch",
+                "house": "Slytherin",
+                "wand": {
+                    "wood": null,
+                    "core": null,
+                    "length": null
+                },
+                "patronus": "Mountain Lion",
+                "image_url": "http://hp-api.herokuapp.com/images/norris.jpg",
+                "student": false
+            },
+            {
+                "id": 25,
                 "name": "Albus Dumbledore",
                 "house": "Gryffindor",
                 "wand": {
@@ -290,5 +342,36 @@
             }
         ],
         "message": "Characters fetched!"
+    },
+    "houses": {
+        "success": true,
+        "data": [
+            {
+                "house": "Gryffindor",
+                "mascot": "Lion",
+                "color_primary": "#7f0909",
+                "color_secondary": "#ffc500"
+
+            },
+            {
+                "house": "Slytherin",
+                "mascot": "Snake",
+                "color_primary": "#0d6217",
+                "color_secondary": "#aaaaaa"
+            },
+            {
+                "house": "Hufflepuff",
+                "mascot": "Badger",
+                "color_primary": "#eee117",
+                "color_secondary": "#000000"
+            },
+            {
+                "house": "Ravenclaw",
+                "mascot": "Raven",
+                "color_primary": "#000a90",
+                "color_secondary": "#eeba30"
+            }
+        ],
+        "message": "Houses fetched!"
     }
 }
