@@ -291,5 +291,7 @@
         ],
         "message": "Characters fetched!"
     },
-    "isWizard": true
+    "isWizard": {
+        "value": true
+    }
 }
