@@ -13,7 +13,7 @@
                         "length": 11
                     },
                     "patronus": "Stag",
-                    "image_url": "http://hp-api.herokuapp.com/images/harry.jpg",
+                    "image_url": "https://github.com/raicalvin/hogwarts-interview-repo/blob/master/images/harry.png",
                     "student": true
                 },
                 {
@@ -26,7 +26,7 @@
                         "length": null
                     },
                     "patronus": "Otter",
-                    "image_url": "http://hp-api.herokuapp.com/images/hermione.jpeg",
+                    "image_url": "https://github.com/raicalvin/hogwarts-interview-repo/blob/master/images/hermoine.jpg",
                     "student": true
                 },
                 {
@@ -39,7 +39,7 @@
                         "length": 14
                     },
                     "patronus": "Jack Russell Terrier",
-                    "image_url": "http://hp-api.herokuapp.com/images/ron.jpg",
+                    "image_url": "https://github.com/raicalvin/hogwarts-interview-repo/blob/master/images/ron.jpg",
                     "student": true
                 },
                 {
@@ -52,7 +52,7 @@
                         "length": 10
                     },
                     "patronus": null,
-                    "image_url": "http://hp-api.herokuapp.com/images/draco.jpg",
+                    "image_url": "https://github.com/raicalvin/hogwarts-interview-repo/blob/master/images/draco.jpeg",
                     "student": true
                 },
                 {
@@ -65,7 +65,7 @@
                         "length": null
                     },
                     "patronus": "Tabby Cat",
-                    "image_url": "http://hp-api.herokuapp.com/images/mcgonagall.jpg",
+                    "image_url": "https://github.com/raicalvin/hogwarts-interview-repo/blob/master/images/mcgonagall.jpg",
                     "student": false
                 },
                 {
@@ -78,7 +78,7 @@
                         "length": 12.25
                     },
                     "patronus": null,
-                    "image_url": "http://hp-api.herokuapp.com/images/cedric.png",
+                    "image_url": "https://github.com/raicalvin/hogwarts-interview-repo/blob/master/images/cedric.jpg",
                     "student": true
                 },
                 {
@@ -91,7 +91,7 @@
                         "length": null
                     },
                     "patronus": "Swan",
-                    "image_url": "http://hp-api.herokuapp.com/images/cho.png",
+                    "image_url": "https://github.com/raicalvin/hogwarts-interview-repo/blob/master/images/cho.jpeg",
                     "student": true
                 },
                 {
@@ -104,7 +104,7 @@
                         "length": null
                     },
                     "patronus": "Doe",
-                    "image_url": "http://hp-api.herokuapp.com/images/snape.png",
+                    "image_url": "https://github.com/raicalvin/hogwarts-interview-repo/blob/master/images/snape.jpeg",
                     "student": false
                 },
                 {
@@ -117,7 +117,7 @@
                         "length": 16
                     },
                     "patronus": null,
-                    "image_url": "http://hp-api.herokuapp.com/images/hagrid.png",
+                    "image_url": "https://github.com/raicalvin/hogwarts-interview-repo/blob/master/images/hagrid.jpeg",
                     "student": false
                 },
                 {
@@ -130,7 +130,7 @@
                         "length": 13
                     },
                     "patronus": null,
-                    "image_url": "http://hp-api.herokuapp.com/images/neville.png",
+                    "image_url": "https://github.com/raicalvin/hogwarts-interview-repo/blob/master/images/neville.jpeg",
                     "student": true
                 },
                 {
@@ -143,7 +143,7 @@
                         "length": null
                     },
                     "patronus": "Hare",
-                    "image_url": "http://hp-api.herokuapp.com/images/luna.png",
+                    "image_url": "https://github.com/raicalvin/hogwarts-interview-repo/blob/master/images/luna.jpeg",
                     "student": true
                 },
                 {
@@ -156,7 +156,7 @@
                         "length": null
                     },
                     "patronus": "Stallion",
-                    "image_url": "http://hp-api.herokuapp.com/images/ginny.png",
+                    "image_url": "https://github.com/raicalvin/hogwarts-interview-repo/blob/master/images/ginny.jpeg",
                     "student": true
                 },
                 {
@@ -169,7 +169,7 @@
                         "length": null
                     },
                     "patronus": "Grim",
-                    "image_url": "http://hp-api.herokuapp.com/images/sirius.png",
+                    "image_url": "https://github.com/raicalvin/hogwarts-interview-repo/blob/master/images/sirius.jpeg",
                     "student": false
                 },
                 {
@@ -182,7 +182,7 @@
                         "length": 10.25
                     },
                     "patronus": "Wolf",
-                    "image_url": "http://hp-api.herokuapp.com/images/lupin.png",
+                    "image_url": "https://github.com/raicalvin/hogwarts-interview-repo/blob/master/images/lupin.jpeg",
                     "student": false
                 },
                 {
@@ -195,7 +195,7 @@
                         "length": null
                     },
                     "patronus": "Weasel",
-                    "image_url": "http://hp-api.herokuapp.com/images/arthur.png",
+                    "image_url": "https://github.com/raicalvin/hogwarts-interview-repo/blob/master/images/arthur.jpeg",
                     "student": false
                 },
                 {
@@ -208,7 +208,7 @@
                         "length": 12.75
                     },
                     "patronus": null,
-                    "image_url": "http://hp-api.herokuapp.com/images/bellatrix.jpg",
+                    "image_url": "https://github.com/raicalvin/hogwarts-interview-repo/blob/master/images/bellatrix.jpeg",
                     "student": false
                 },
                 {
@@ -221,7 +221,7 @@
                         "length": 13.5
                     },
                     "patronus": null,
-                    "image_url": "http://hp-api.herokuapp.com/images/voldemort.jpg",
+                    "image_url": "https://github.com/raicalvin/hogwarts-interview-repo/blob/master/images/voldemort.jpeg",
                     "student": false
                 },
                 {
@@ -234,7 +234,7 @@
                         "length": 10.25
                     },
                     "patronus": null,
-                    "image_url": "http://hp-api.herokuapp.com/images/slughorn.jpg",
+                    "image_url": "https://github.com/raicalvin/hogwarts-interview-repo/blob/master/images/slughorn.jpeg",
                     "student": false
                 },
                 {
@@ -247,7 +247,7 @@
                         "length": null
                     },
                     "patronus": "Lynx",
-                    "image_url": "http://hp-api.herokuapp.com/images/kingsley.jpg",
+                    "image_url": "https://github.com/raicalvin/hogwarts-interview-repo/blob/master/images/kingsley.jpeg",
                     "student": false
                 },
                 {
@@ -260,7 +260,7 @@
                         "length": 8
                     },
                     "patronus": "Persian Cat",
-                    "image_url": "http://hp-api.herokuapp.com/images/umbridge.jpg",
+                    "image_url": "https://github.com/raicalvin/hogwarts-interview-repo/blob/master/images/umbridge.jpeg",
                     "student": false
                 },
                 {
@@ -273,7 +273,7 @@
                         "length": 18
                     },
                     "patronus": null,
-                    "image_url": "http://hp-api.herokuapp.com/images/lucius.jpg",
+                    "image_url": "https://github.com/raicalvin/hogwarts-interview-repo/blob/master/images/lucius.jpeg",
                     "student": false
                 },
                 {
@@ -286,7 +286,7 @@
                         "length": 15
                     },
                     "patronus": "Phoenix",
-                    "image_url": "",
+                    "image_url": "https://github.com/raicalvin/hogwarts-interview-repo/blob/master/images/dumbledore.jpeg",
                     "student": false
                 }
             ]
