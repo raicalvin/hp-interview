@@ -239,32 +239,6 @@
                 },
                 {
                     "id": 19,
-                    "name": "Kingsley Shacklebolt",
-                    "house": "Hufflepuff",
-                    "wand": {
-                        "wood": null,
-                        "core": null,
-                        "length": null
-                    },
-                    "patronus": "Lynx",
-                    "image_url": "https://git.io/JvCgA",
-                    "student": false
-                },
-                {
-                    "id": 20,
-                    "name": "Dolores Umbridge",
-                    "house": "Slytherin",
-                    "wand": {
-                        "wood": "birch",
-                        "core": "dragon heartstring",
-                        "length": 8
-                    },
-                    "patronus": "Persian Cat",
-                    "image_url": "https://git.io/JvCgx",
-                    "student": false
-                },
-                {
-                    "id": 21,
                     "name": "Lucius Malfoy",
                     "house": "Slytherin",
                     "wand": {
@@ -277,7 +251,7 @@
                     "student": false
                 },
                 {
-                    "id": 22,
+                    "id": 20,
                     "name": "Albus Dumbledore",
                     "house": "Gryffindor",
                     "wand": {
