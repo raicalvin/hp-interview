@@ -25,7 +25,7 @@
                     "length": null
                 },
                 "patronus": "Otter",
-                "image_url": "https://raw.githubusercontent.com/raicalvin/hogwarts-interview-repo/blob/master/images/hermoine.jpg",
+                "image_url": "raw.githubusercontent.com/raicalvin/hogwarts-interview-repo/blob/master/images/hermoine.jpg",
                 "student": true
             },
             {
